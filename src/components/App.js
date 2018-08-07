@@ -3,7 +3,7 @@ import '../styles/App.css'
 
 const Header = () => (
   <header className='App-header'>
-    <h1 className='App-title'>Logo Interpreter App</h1>
+    <h1 className='App-title'>Password Manager App</h1>
   </header>
 )
 
@@ -23,7 +23,7 @@ const Menu = (props) => (
   </div>
 )
 
-class LogoInterpreterApp extends Component {
+class PasswordManager  extends Component {
   
   state = {
     
@@ -59,7 +59,7 @@ class LogoInterpreterApp extends Component {
 const App = (props) => (
   <div className='App'>
     <Header />
-    <LogoInterpreterApp/>
+    <PasswordManager />
 
   </div>
 )
