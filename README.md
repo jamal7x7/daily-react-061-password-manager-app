@@ -1,6 +1,6 @@
 ## Daily-react-061-password-manager-app
 
-> Challenge: create a Logo(language) interpreter app.
+> Challenge: create a password manager app.
 
 Work in progress: https://github.com/jamal7x7/daily-react-061-password-manager-app
 
