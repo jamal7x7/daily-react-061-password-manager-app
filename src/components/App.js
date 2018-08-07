@@ -23,7 +23,7 @@ const Menu = (props) => (
   </div>
 )
 
-class PasswordManager  extends Component {
+class PasswordManagerApp  extends Component {
   
   state = {
     
@@ -59,7 +59,7 @@ class PasswordManager  extends Component {
 const App = (props) => (
   <div className='App'>
     <Header />
-    <PasswordManager />
+    <PasswordManagerApp />
 
   </div>
 )
